@@ -6,7 +6,7 @@
     class Conectar{
         protected $dbh;
 
-        /*TODO: Funcion Protegida de la cadena de Conexion */
+        /*TODO: Funcion Protegida de la cadena de Conexion  Ejemplo*/
         protected function Conexion(){
             try {
                 /*TODO: Cadena de Conexion QA*/
