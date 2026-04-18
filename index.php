@@ -8,6 +8,7 @@
     $usuario = new Usuario();
     $usuario->login();
   }
+  /* TESTING */
 ?>
 <!DOCTYPE html>
 <html lang="es">
